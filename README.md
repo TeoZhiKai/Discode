@@ -7,4 +7,4 @@ This Application is created to facilitate the learning of developing an iOS appl
 # Application Example 
 ### First Page
 
-<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/73381439/178428378-0ab26144-ba1e-4a12-b657-44b0599e295f.png)" width="345" >
+<img src="https://user-images.githubusercontent.com/73381439/178428378-0ab26144-ba1e-4a12-b657-44b0599e295f.png" width="345" >
