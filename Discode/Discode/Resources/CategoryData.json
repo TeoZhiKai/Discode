@@ -1,0 +1,23 @@
+[
+
+{
+    "id": 1001,
+    "categoryname": "column_food",
+    "choices":["foodpanda","deliveroo","grabfood","whyq"]
+},
+{
+    "id": 1002,
+    "categoryname": "column_transport",
+    "choices":["grab","ryde"]
+},
+{
+    "id": 1003,
+    "categoryname": "column_shopping",
+    "choices":["shopee","lazada","qoo10"]
+}
+
+
+
+]
+
+
